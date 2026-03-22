@@ -1,0 +1,19 @@
+{
+  "generatedAt": null,
+  "sourceDirectory": "",
+  "settings": {
+    "distanceMeters": 250,
+    "reverseGeocodingEnabled": false,
+    "timezone": "Asia/Seoul"
+  },
+  "summary": {
+    "totalPhotos": 0,
+    "geotaggedPhotos": 0,
+    "unlocatedPhotos": 0,
+    "visitAreas": 0,
+    "countries": [],
+    "years": []
+  },
+  "photos": [],
+  "visits": []
+}

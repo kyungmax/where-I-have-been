@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2026-03-22T20:10:00.000+09:00",
+  "sourceDirectory": "/sample/photos",
+  "settings": {
+    "distanceMeters": 250,
+    "reverseGeocodingEnabled": true,
+    "timezone": "Asia/Seoul"
+  },
+  "summary": {
+    "totalPhotos": 9,
+    "geotaggedPhotos": 9,
+    "unlocatedPhotos": 0,
+    "visitAreas": 4,
+    "countries": ["France", "Japan", "South Korea", "United States"],
+    "years": [2023, 2024, 2025]
+  },
+  "photos": [
+    {
+      "id": "photo-seoul-1",
+      "filename": "IMG_1001.HEIC",
+      "relativePath": "2023/Seoul/IMG_1001.HEIC",
+      "capturedAt": "2023-11-01T10:12:00.000+09:00",
+      "localDate": "2023-11-01",
+      "latitude": 37.5663,
+      "longitude": 126.9779,
+      "clusterId": "visit-seoul",
+      "locationLabel": "Seoul, South Korea"
+    },
+    {
+      "id": "photo-seoul-2",
+      "filename": "IMG_1044.HEIC",
+      "relativePath": "2024/Seoul/IMG_1044.HEIC",
+      "capturedAt": "2024-05-18T19:30:00.000+09:00",
+      "localDate": "2024-05-18",
+      "latitude": 37.5659,
+      "longitude": 126.9784,
+      "clusterId": "visit-seoul",
+      "locationLabel": "Seoul, South Korea"
+    },
+    {
+      "id": "photo-tokyo-1",
+      "filename": "IMG_2011.HEIC",
+      "relativePath": "2024/Tokyo/IMG_2011.HEIC",
+      "capturedAt": "2024-07-08T08:05:00.000+09:00",
+      "localDate": "2024-07-08",
+      "latitude": 35.6806,
+      "longitude": 139.7671,
+      "clusterId": "visit-tokyo",
+      "locationLabel": "Tokyo, Japan"
+    },
+    {
+      "id": "photo-tokyo-2",
+      "filename": "IMG_2018.HEIC",
+      "relativePath": "2024/Tokyo/IMG_2018.HEIC",
+      "capturedAt": "2024-07-09T20:11:00.000+09:00",
+      "localDate": "2024-07-09",
+      "latitude": 35.681,
+      "longitude": 139.768,
+      "clusterId": "visit-tokyo",
+      "locationLabel": "Tokyo, Japan"
+    },
+    {
+      "id": "photo-paris-1",
+      "filename": "IMG_3032.HEIC",
+      "relativePath": "2025/Paris/IMG_3032.HEIC",
+      "capturedAt": "2025-03-12T15:40:00.000+01:00",
+      "localDate": "2025-03-12",
+      "latitude": 48.8584,
+      "longitude": 2.2945,
+      "clusterId": "visit-paris",
+      "locationLabel": "Paris, Ile-de-France, France"
+    },
+    {
+      "id": "photo-paris-2",
+      "filename": "IMG_3041.HEIC",
+      "relativePath": "2025/Paris/IMG_3041.HEIC",
+      "capturedAt": "2025-03-13T09:20:00.000+01:00",
+      "localDate": "2025-03-13",
+      "latitude": 48.8586,
+      "longitude": 2.2941,
+      "clusterId": "visit-paris",
+      "locationLabel": "Paris, Ile-de-France, France"
+    },
+    {
+      "id": "photo-sf-1",
+      "filename": "IMG_4022.HEIC",
+      "relativePath": "2025/SanFrancisco/IMG_4022.HEIC",
+      "capturedAt": "2025-10-01T11:02:00.000-07:00",
+      "localDate": "2025-10-01",
+      "latitude": 37.8199,
+      "longitude": -122.4783,
+      "clusterId": "visit-sf",
+      "locationLabel": "San Francisco, California, United States"
+    },
+    {
+      "id": "photo-sf-2",
+      "filename": "IMG_4033.HEIC",
+      "relativePath": "2025/SanFrancisco/IMG_4033.HEIC",
+      "capturedAt": "2025-10-03T17:45:00.000-07:00",
+      "localDate": "2025-10-03",
+      "latitude": 37.8197,
+      "longitude": -122.4786,
+      "clusterId": "visit-sf",
+      "locationLabel": "San Francisco, California, United States"
+    },
+    {
+      "id": "photo-sf-3",
+      "filename": "IMG_4044.HEIC",
+      "relativePath": "2025/SanFrancisco/IMG_4044.HEIC",
+      "capturedAt": "2025-10-04T09:24:00.000-07:00",
+      "localDate": "2025-10-04",
+      "latitude": 37.8203,
+      "longitude": -122.4777,
+      "clusterId": "visit-sf",
+      "locationLabel": "San Francisco, California, United States"
+    }
+  ],
+  "visits": [
+    {
+      "id": "visit-sf",
+      "latitude": 37.8199666667,
+      "longitude": -122.4782,
+      "locationLabel": "San Francisco, California, United States",
+      "locality": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "countryCode": "us",
+      "visitCount": 3,
+      "photoCount": 3,
+      "firstVisitedAt": "2025-10-01T11:02:00.000-07:00",
+      "lastVisitedAt": "2025-10-04T09:24:00.000-07:00",
+      "visitDates": ["2025-10-01", "2025-10-03", "2025-10-04"],
+      "photoIds": ["photo-sf-1", "photo-sf-2", "photo-sf-3"]
+    },
+    {
+      "id": "visit-paris",
+      "latitude": 48.8585,
+      "longitude": 2.2943,
+      "locationLabel": "Paris, Ile-de-France, France",
+      "locality": "Paris",
+      "region": "Ile-de-France",
+      "country": "France",
+      "countryCode": "fr",
+      "visitCount": 2,
+      "photoCount": 2,
+      "firstVisitedAt": "2025-03-12T15:40:00.000+01:00",
+      "lastVisitedAt": "2025-03-13T09:20:00.000+01:00",
+      "visitDates": ["2025-03-12", "2025-03-13"],
+      "photoIds": ["photo-paris-1", "photo-paris-2"]
+    },
+    {
+      "id": "visit-tokyo",
+      "latitude": 35.6808,
+      "longitude": 139.7676,
+      "locationLabel": "Tokyo, Japan",
+      "locality": "Tokyo",
+      "region": "Tokyo",
+      "country": "Japan",
+      "countryCode": "jp",
+      "visitCount": 2,
+      "photoCount": 2,
+      "firstVisitedAt": "2024-07-08T08:05:00.000+09:00",
+      "lastVisitedAt": "2024-07-09T20:11:00.000+09:00",
+      "visitDates": ["2024-07-08", "2024-07-09"],
+      "photoIds": ["photo-tokyo-1", "photo-tokyo-2"]
+    },
+    {
+      "id": "visit-seoul",
+      "latitude": 37.5661,
+      "longitude": 126.9782,
+      "locationLabel": "Seoul, South Korea",
+      "locality": "Seoul",
+      "region": "Seoul",
+      "country": "South Korea",
+      "countryCode": "kr",
+      "visitCount": 2,
+      "photoCount": 2,
+      "firstVisitedAt": "2023-11-01T10:12:00.000+09:00",
+      "lastVisitedAt": "2024-05-18T19:30:00.000+09:00",
+      "visitDates": ["2023-11-01", "2024-05-18"],
+      "photoIds": ["photo-seoul-1", "photo-seoul-2"]
+    }
+  ]
+}
